@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "ecommerce-lab",
+    "slug": "ecommerce-lab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "ecommercelab",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
+  }
+}
