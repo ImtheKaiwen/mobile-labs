@@ -6,15 +6,15 @@ This repository contains the weekly mobile application projects developed for th
 
 ```text
 mobile-labs/
-├── week-8/
+├── week-10/
 └── README.md
 ```
 
 Each week directory includes a standalone Expo or React Native project. Project-specific setup and usage instructions are provided in the corresponding directory.
 
-## Week 8
+## Week 10
 
-The Week 8 project is an API-based ecommerce application developed with React Native and Expo.
+The Week 10 project is an API-based ecommerce application developed with React Native and Expo.
 
 The application includes:
 
@@ -26,7 +26,7 @@ The application includes:
 - Loading and error states
 - A shared monochrome interface theme
 
-Project directory: [week-8](./week-8)
+Project directory: [week-10](./week-10)
 
 ## General Requirements
 
@@ -40,7 +40,7 @@ Project directory: [week-8](./week-8)
 Change to the selected week directory, install dependencies, and start the Expo development server:
 
 ```bash
-cd week-8
+cd week-10
 npm install
 npx expo start --go
 ```
